@@ -9,7 +9,7 @@ public class Main {
 	public static void main (String args[]) {
 
 		int numero1, numero2, resultadoSuma, resultadoResta, resultadoDivision, resultadoMultiplicacion;
-		Arithmetic operaciones = new Arithmetic(); // Crear una instancia/objeto de la clase -operaciones(variable)-
+		Arithmetic operaciones = new Arithmetic(); // Crear una instancia/objeto de la clase -operaciones (variable)-
 		
 		Scanner sc = new Scanner(System.in); // Objeto sc
 		System.out.print("\ningresa un número: ");
